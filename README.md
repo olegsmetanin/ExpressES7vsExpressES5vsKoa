@@ -1,6 +1,6 @@
-# expressES5vsES7vsKOA
+# ExpressES7vsExpressES5vsKoa
 
-Express 4.0 ES5 vs Babel ES7 async await vs Koa
+Express + Babel ES7 async/await vs Express + ES5 vs Koa
 
 ## Express 4 + Babel ES7 async/await
 
