@@ -1,0 +1,20 @@
+{
+  "name": "express_es5_vs_es7_vs_koa",
+  "version": "0.0.1",
+  "description": "Express 4.0 ES5 vs Babel ES7 async await vs Koa",
+  "scripts": {},
+  "dependencies": {
+    "babel": "^5.5.6",
+    "express": "^4.12.4",
+    "koa": "^0.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegsmetanin/expressES5vsES7vsKOA.git"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "browser": {}
+}
