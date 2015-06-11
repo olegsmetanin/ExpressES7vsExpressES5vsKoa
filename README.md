@@ -52,8 +52,6 @@ Running 30s test @ http://127.0.0.1:3000
     Req/Sec   134.26     68.29   323.00     68.33%
   45981 requests in 30.10s, 6.75MB read
   Socket errors: connect 0, read 249, write 0, timeout 0
+  Requests/sec: 1527.37
+  Transfer/sec: 229.70KB
 ```
-
-Requests/sec:   1527.37
-
-Transfer/sec:    229.70KB
